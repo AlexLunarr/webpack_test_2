@@ -14,5 +14,5 @@ img.width = 700
 imgWrap.append(img)
 
 
-// console.log(mult(3, 4));
-// console.log(sum(3, 4));
+console.log(mult(3, 4));
+console.log(sum(3, 4));
