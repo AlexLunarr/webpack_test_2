@@ -1,8 +1,8 @@
 {
-  "name": "webpack_test",
+  "name": "new_progect",
   "version": "1.0.0",
   "repository": {
-    "url": "git+https://github.com/AlexLunarr/webpack_test.git"
+    "url": "git+https://github.com/AlexLunarr/test_new_progect.git"
   },
   "description": "",
   "main": "index.js",
